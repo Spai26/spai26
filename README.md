@@ -1,6 +1,6 @@
 ### Hi there 👋
-[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
 
+<a href="#" class="button danger">Delete post</a>
 ## Tech Stack
 
 **Client:** React, Redux, CSS, HTML5
