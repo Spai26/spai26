@@ -1,10 +1,9 @@
-### Hi there 👋
-
-<a href="#" class="button danger">Delete post</a>
-## Tech Stack
-
-**Client:** React, Redux, CSS, HTML5
-
-**Server:** Node, Express, Mongoose, Sequialize, Laravel, PHP
-
-**Database:** MongoDB, PostgreSql
+### Hola bienvenidos 👋
+```js
+const sergioAi = {
+  code: [Javascript, CSS, HTML5 ],
+  tolls: [React.js, Node.js, Express],
+  database: [MongoDB, PostgreSql, Mysql ],
+  frameworks: laravel
+}
+```
